@@ -10,7 +10,8 @@ like thetimes
 
 So I decided to come up with a very simple Static Site VPN and run it on a free web server
 
-HOW?
+#HOW?
+
 you simply pass it a website which you want to view , It will copy all the resources of that webpage locally on the server which will be then served
 This data will be deleted later depending on total storage available and time
 
